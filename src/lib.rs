@@ -14,6 +14,7 @@ mod macro_tests {
     }
 }
 
+mod bootstrap;
 mod memory;
 
 #[cfg(target_os = "windows")]
